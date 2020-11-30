@@ -1,2 +1,3 @@
 # explore
-repository
+
+Hi I'm jaemyeong
